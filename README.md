@@ -1,6 +1,8 @@
 [![Build Status](https://scrutinizer-ci.com/g/mertskaplan/Kac-alsam-gecerim/badges/build.png?b=master)](https://scrutinizer-ci.com/g/mertskaplan/Kac-alsam-gecerim/build-status/master) [![version](https://img.shields.io/badge/version-v1-orange.svg)]() [![license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/mertskaplan/Kac-alsam-gecerim/blob/master/LICENSE)
 
 # Kaç alsam geçerim - v1.0
+
+[![Join the chat at https://gitter.im/mertskaplan/Kac-alsam-gecerim](https://badges.gitter.im/mertskaplan/Kac-alsam-gecerim.svg)](https://gitter.im/mertskaplan/Kac-alsam-gecerim?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **"İşte o çok merak edilen sorunun yanıtını hızlıca alabileceğiniz site."**
 İlkokul/lise ve üniversite öğrencileri için varsayılan olarak ayarları yapılmış bir not hesaplama sistemidir. Uygulama ile dersten başarılı olabilmeniz için en az ne kadar not almanız gerektiğini hızlıca hesaplayabilirsiniz.
 
