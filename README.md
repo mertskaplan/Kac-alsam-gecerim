@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/version-v1-orange.svg) [![license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/mertskaplan/Kac-alsam-gecerim/blob/master/LICENSE)
+[![Build Status](https://scrutinizer-ci.com/g/mertskaplan/Kac-alsam-gecerim/badges/build.png?b=master)](https://scrutinizer-ci.com/g/mertskaplan/Kac-alsam-gecerim/build-status/master) [![version](https://img.shields.io/badge/version-v1-orange.svg)]() [![license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/mertskaplan/Kac-alsam-gecerim/blob/master/LICENSE)
 
 # Kaç alsam geçerim - v1.0
 **"İşte o çok merak edilen sorunun yanıtını hızlıca alabileceğiniz site."**
